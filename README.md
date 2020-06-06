@@ -1,7 +1,7 @@
 # Recent-Trends-in-Teleoperation-Time-DelayMitigation
 In ths repository we focused on time series prediction methods to solve time delay in teleoperation
 
-In this repository we created two folder one for Neural Network methods: [NN_methods]:(NN_methods) and Statistical methods: [Stat_methods]: (Stat_methods). 
+In this repository we created two folder one for Neural Network methods: NN_methods and Statistical methods: Stat_methods. 
 
 ## Neural Network methods:
 
